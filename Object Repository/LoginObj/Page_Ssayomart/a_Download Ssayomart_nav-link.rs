@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>04de4a46-f522-437d-8f0d-c85bdd24af91</webElementGuid>
+      <webElementGuid>03c822bb-ab3a-4fce-82f9-8730bc84190d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>5ab33729-7897-4f70-b37d-23477aef4825</webElementGuid>
+      <webElementGuid>633c7978-527e-4088-ab4d-cab44c0ad032</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://apps.ssayomart.com/login</value>
-      <webElementGuid>f7658b5b-26f5-405a-8f4f-3551d487022b</webElementGuid>
+      <webElementGuid>c3ee00fb-4661-45f2-97fb-e3a005915a9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav d-flex flex-row mx-3&quot;]/li[@class=&quot;nav-item me-3 me-lg-0&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>793aed1e-d9f7-46db-b390-9dd364676d55</webElementGuid>
+      <webElementGuid>c8fbb28c-c67e-4cee-82ed-2d6d82d16f88</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/ul[2]/li[2]/a</value>
-      <webElementGuid>bea5764c-0d2d-4d29-bda6-0de4437725d2</webElementGuid>
+      <webElementGuid>8c27cd29-69cd-4ab6-aac8-413457ab067f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Ssayomart'])[1]/following::a[2]</value>
-      <webElementGuid>bf3d4c81-b9ef-44fb-b1f5-10fd1c179c50</webElementGuid>
+      <webElementGuid>80b3f4d9-d5bd-4100-9519-274bec50da8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alternatives Milk'])[1]/following::a[3]</value>
-      <webElementGuid>29c0c310-ef97-4509-be09-e1845f6c2a48</webElementGuid>
+      <webElementGuid>798cf2df-0811-429c-a268-239405941910</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ID/KR'])[1]/preceding::a[1]</value>
-      <webElementGuid>c036e174-8b6c-48e8-bca8-85bf5cded05e</webElementGuid>
+      <webElementGuid>1b0151f5-f2a1-4de3-80ef-a26ddedd5016</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/preceding::a[2]</value>
-      <webElementGuid>5159e001-44a0-4df8-b0f9-176416231cea</webElementGuid>
+      <webElementGuid>d4b79033-15ca-4766-8304-5f499b6a419c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://apps.ssayomart.com/login')]</value>
-      <webElementGuid>41d812d3-522f-4f57-9e28-9a6924f564ec</webElementGuid>
+      <webElementGuid>0a19101a-1767-4ac0-b236-ad47c9fc9cba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ul[2]/li[2]/a</value>
-      <webElementGuid>64004361-1f32-48a6-b0c7-b8244c9a2106</webElementGuid>
+      <webElementGuid>c5a81cfa-226c-4ced-86a0-0850118e30c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://apps.ssayomart.com/login']</value>
-      <webElementGuid>d86cdea3-3122-49d4-adbd-ab3f2e0b80cf</webElementGuid>
+      <webElementGuid>b7816b83-fce6-4d54-a4e1-becb9fac4a87</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

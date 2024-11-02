@@ -17,3 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+def validemail = GlobalVariable.valid_email
+
+def invalidpassword = GlobalVariable.invalid_password
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://apps.ssayomart.com/')
+
+WebUI.click(findTestObject('Object Repository/LoginObj/Page_Ssayomart/a_Download Ssayomart_nav-link'))
+
+WebUI.setText(findTestObject('Object Repository/LoginObj/Page_Masuk/input_Daftar_email'), validemail)
+
+WebUI.setText(findTestObject('Object Repository/LoginObj/Page_Masuk/input_Daftar_password'), invalidpassword)
+
+WebUI.click(findTestObject('Object Repository/LoginObj/Page_Masuk/button_Masuk'))
+
+WebUI.verifyTextPresent('Anda tidak dapat masuk. Harap periksa kata sandi Anda.', false)
+
+WebUI.closeBrowser()
+

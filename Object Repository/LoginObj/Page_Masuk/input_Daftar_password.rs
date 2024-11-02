@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>203482f5-d887-486f-839a-3e24671c0934</webElementGuid>
+      <webElementGuid>97c95276-e17c-407b-8743-d972428da317</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>6327bb1b-0931-4d48-8b83-160b79ed1de1</webElementGuid>
+      <webElementGuid>04f5cf5a-d436-4ac3-bdca-464440fc1f57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-field shadow-sm border-0 px-2</value>
-      <webElementGuid>3a27df3b-937f-46a7-b813-74d21d6f3668</webElementGuid>
+      <webElementGuid>7ae4af50-4e8a-4c12-92a4-4b097ffb4c4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>605dee13-27a1-4f26-b65d-893eabcdfc81</webElementGuid>
+      <webElementGuid>0a3efcc4-9383-4db3-8f0b-b0982033fb57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>inputmode</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>3a6ab33c-b722-49ef-b0c0-dc4d3cd1e0e2</webElementGuid>
+      <webElementGuid>87da393a-fa53-43bc-8d6c-24d568fe22a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Kata sandi Anda</value>
-      <webElementGuid>aab33404-89b7-4f6a-aa8b-9ba134719dc5</webElementGuid>
+      <webElementGuid>3a81b17b-ce73-4f9f-b849-c04ad8f85bc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>current-password</value>
-      <webElementGuid>f32e7039-780a-4ac9-b837-d35bb042cc59</webElementGuid>
+      <webElementGuid>e0659167-0d0d-4f5d-896d-9edcf8d800c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/main[@class=&quot;container&quot;]/div[@class=&quot;box shadow-sm&quot;]/div[@class=&quot;inner-box&quot;]/div[@class=&quot;forms-wrap&quot;]/form[1]/div[@class=&quot;actual-form&quot;]/div[@class=&quot;input-wrap position-relative&quot;]/input[@class=&quot;input-field shadow-sm border-0 px-2&quot;]</value>
-      <webElementGuid>6d2d9b24-9db2-4ad5-bd8e-12bb6c681e6b</webElementGuid>
+      <webElementGuid>070cb4c1-0d22-40c9-998e-724be129c8cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='password']</value>
-      <webElementGuid>12cead15-7666-45a4-97d2-7a8ea45e96a6</webElementGuid>
+      <webElementGuid>76ab591d-3caf-4fbc-851c-51ba371cadfe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>8dc3b6ca-1d67-42b5-bf23-6e4ea8b14607</webElementGuid>
+      <webElementGuid>44f98592-cb24-471e-bd96-ca3a21a0932b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Kata sandi Anda']</value>
-      <webElementGuid>b3bbd86d-534f-401a-a74b-39029e4a674d</webElementGuid>
+      <webElementGuid>46da8632-0e96-447d-a9d5-47881a189488</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
