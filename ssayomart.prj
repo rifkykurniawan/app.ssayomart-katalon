@@ -6,11 +6,12 @@
    <UUID>c97613c7-f878-4d6c-9558-02f5d255cde8</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.0.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.0.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/rifkykurniawan/Documents/Automation/Katalon/Ssayomart/app.ssayomart-katalon/ssayomart.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

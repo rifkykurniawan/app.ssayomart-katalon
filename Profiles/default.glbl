@@ -4,4 +4,29 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'validemail@gmail.com'</initValue>
+      <name>valid_email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'validpassword'</initValue>
+      <name>valid_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'invalidemail@gmail.com'</initValue>
+      <name>invalid_email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'invalidpassword'</initValue>
+      <name>invalid_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'unregis@gmail.com'</initValue>
+      <name>unregistered_email</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
