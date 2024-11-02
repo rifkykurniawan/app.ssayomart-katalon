@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure the url is accessible</description>
+   <name>Verify visit the ssayomart url</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b071b5af-cd88-4c98-856b-c88ccf5a9ecb</testCaseGuid>
+</TestCaseEntity>
