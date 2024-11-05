@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 def emptyemail = ""
 
-def invalidpassword = GlobalVariable.invalid_password
+def emptypassword = ""
 
 WebUI.openBrowser('')
 
@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/LoginObj/Page_Ssayomart/a_Download
 
 WebUI.setText(findTestObject('Object Repository/LoginObj/Page_Masuk/input_Daftar_email'), emptyemail)
 
-WebUI.setText(findTestObject('Object Repository/LoginObj/Page_Masuk/input_Daftar_password'), invalidpassword)
+WebUI.setText(findTestObject('Object Repository/LoginObj/Page_Masuk/input_Daftar_password'), emptypassword)
 
 WebUI.click(findTestObject('Object Repository/LoginObj/Page_Masuk/button_Masuk'))
 
